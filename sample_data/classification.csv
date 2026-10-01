@@ -1,0 +1,5 @@
+feature_a,feature_b,label
+1,10,yes
+2,20,yes
+3,30,no
+4,40,no
