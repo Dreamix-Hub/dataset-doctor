@@ -1,2 +1,11 @@
-name,value
-example,1
+name,age,salary,department,city
+Ali,22,45000,IT,Abbottabad
+Ahmed,25,55000,IT,Islamabad
+Sara,24,52000,HR,Lahore
+Usman,,48000,IT,Abbottabad
+Fatima,29,70000,Finance,Karachi
+Ali,22,45000,IT,Abbottabad
+Hamza,31,90000,Finance,Islamabad
+Ayesha,27,,HR,Lahore
+Bilal,35,120000,Finance,Karachi
+Zain,28,65000,IT,Islamabad

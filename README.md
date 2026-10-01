@@ -13,13 +13,13 @@ It investigates datasets before machine-learning training and explains potential
 - SciPy
 - Scikit-learn
 - FastAPI
-- Gemma (future phase)
+- Gemma
 
-## Phase 1
+## Phase 1 — Dataset Profiler
 
-Phase 1 focuses on building the dataset profiling engine.
+Phase 1 builds the core dataset profiling engine.
 
-Currently detects:
+It currently analyzes:
 
 - Dataset dimensions
 - Numerical columns
